@@ -1,0 +1,7 @@
+Credit managers have to overtake this situation in the most efficient and hustle free way they can. 
+So by developing and applying machine learning models they can manage and analyze credit 
+data. Which will save time, minimize the reduction errors and maximize the process of credit 
+scoring. Credit scoring is defined as a technique that helps lenders decide whether to grant credit 
+to the customers on the basis of the different parameters regarding customer such as age, income 
+and marital status, their past history with the banks, if the customer is allied with any bankruptcy 
+cases or not.
